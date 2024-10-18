@@ -64,6 +64,3 @@ You will also need to set up API keys for the following services:
 
 This project is provided for educational purposes and may not be used for commercial applications without proper licensing.
 
----
-
-Feel free to modify any sections to better fit the requirements or add more details.
